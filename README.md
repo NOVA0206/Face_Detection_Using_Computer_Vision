@@ -1,7 +1,3 @@
-Here’s a polished **README.md** you can use for your GitHub repo:
-
----
-
 ````markdown
 # Face Detection Using Computer Vision
 
