@@ -110,20 +110,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📷 Example Output
-
-### Static Image Detection
-
-![Static Face Detection Example](Jeevan.jpg)
-
----
-
-### Live Face Detection
-
-*(Live demo example will be shown in a running video feed)*
-
----
-
 ## 🙌 Acknowledgements
 
 * [OpenCV](https://opencv.org/) — Computer vision library
