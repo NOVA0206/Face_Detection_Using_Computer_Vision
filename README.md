@@ -1,5 +1,4 @@
-````markdown
-# Face Detection Using Computer Vision
+## Face Detection Using Computer Vision
 
 This repository contains two Python scripts that perform face detection using [OpenCV](https://opencv.org/) and Haar Cascade Classifiers.  
 It supports both **static image detection** and **real-time camera-based detection**.
@@ -37,7 +36,7 @@ Make sure you have **Python 3.7+** installed.
    ```bash
    git clone https://github.com/yourusername/Face_Detection_Using_Computer_Vision.git
    cd Face_Detection_Using_Computer_Vision
-````
+
 
 2. Install dependencies:
 
@@ -109,7 +108,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * [OpenCV](https://opencv.org/) — Computer vision library
 * Haar Cascade Classifiers — Original work by Viola and Jones
 
-```
 ✉️ Contact For any questions or inquiries, reach out to:
 
 Author: Jeevan Ramesh Jadhav Email: jeevanj020604@gmail.com
