@@ -14,8 +14,6 @@ It supports both **static image detection** and **real-time camera-based detecti
 - **`face_detection_live.py`** — Detects faces in real-time using your webcam and outputs the number of faces detected in the terminal.
 - **`haarcascade_frontalface_default.xml`** — Pre-trained Haar Cascade model used for detecting faces.
 - **`Jeevan.jpg`** — Sample image for testing static face detection.
-- **`README.md`** — Project documentation.
-- **`LICENSE`** — MIT license for open-source usage.
 
 ---
 
