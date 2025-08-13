@@ -110,3 +110,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * Haar Cascade Classifiers — Original work by Viola and Jones
 
 ```
+✉️ Contact For any questions or inquiries, reach out to:
+
+Author: Jeevan Ramesh Jadhav Email: jeevanj020604@gmail.com LinkedIn: https://www.linkedin.com/in/jeevanjadhav02/ Github Username: NOVA0206
+
+Built with ❤️ using Power BI.
